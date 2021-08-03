@@ -35,3 +35,5 @@
 <img align="left" alt="Nuxt" width="26px" src="https://develop365.gitlab.io/nuxtjs-2.6.x-doc/zh/logos/nuxt-square.svg" />  
 <img align="left" alt="strapi" width="26px" src="https://api.dowhile.com.br/uploads/e55d419eb1dc44b095ad33e02df07ddf.jpg" />  
   
+
+<br>  
