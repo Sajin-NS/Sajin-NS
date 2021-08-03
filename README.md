@@ -11,7 +11,7 @@
 - 💬 Ask me about ... Anything 😁 
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I am in the midddle of nowhere 🤣 
-  
+.  
   
   
   
