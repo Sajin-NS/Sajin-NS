@@ -9,3 +9,14 @@
 - 👯 I’m looking to collaborate on ... Open Source Contributions & python project
 - 🤔 I’m looking for help with ...  All the Feilds of Computer Science.
 - 💬 Ask me about ... Anything 😁 
+- 😄 Pronouns: ... He/Him.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
