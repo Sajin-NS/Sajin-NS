@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sibints2000/github-readme-activity-graph"><img alt="Sibin T S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sibints2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sibints2000/github-readme-activity-graph"><img alt="Sibin T S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sibints2000&bg_color=0D1117&theme=radical&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
