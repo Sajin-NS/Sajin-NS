@@ -43,10 +43,6 @@
 <br>  
 </br>
   
-<p align="center">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sibints2000)](https://git.io/streak-stats)
-
-</p>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
 
