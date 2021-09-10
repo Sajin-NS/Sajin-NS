@@ -36,7 +36,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" />
 <img align="left" alt="Nuxt" width="26px" src="https://develop365.gitlab.io/nuxtjs-2.6.x-doc/zh/logos/nuxt-square.svg" />  
-<img align="left" alt="strapi" width="26px" src="https://api.dowhile.com.br/uploads/e55d419eb1dc44b095ad33e02df07ddf.jpg" />  
+<img align="left" alt="strapi" width="26px" src="https://api.dowhile.com.br/uploads/e55d419eb1dc44b095ad33e02df07ddf.jpg" />
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
   
 
 <br>  
