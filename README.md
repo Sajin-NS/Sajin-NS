@@ -43,7 +43,11 @@
 <br>  
 </br>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sibints2000&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://github.com/Sibints2000/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibints2000&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
   
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
