@@ -65,9 +65,15 @@
   <a href="https://github.com/Sibints2000/github-readme-stats"><img alt="Sibin T S's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibints2000&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-
-
 <br>  
 </br>
+  
+<br/>
+<br/>
+
+<a href="https://github.com/Sibints2000/github-readme-activity-graph"><img alt="Sibin T S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sibints2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sibints2000)
