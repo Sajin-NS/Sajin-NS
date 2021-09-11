@@ -54,9 +54,8 @@
 
 <br></br>  
 <p align="center">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sibints2000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p>
-
+<a href="https://github.com/Sibints2000/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sibints2000&theme=radical" /></a>
+</p>
 
 <p align="center">
     <a href="https://github.com/Sibints2000/github-readme-streak-stats">
