@@ -62,10 +62,11 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sibin T S's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibints2000&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<p align='center">
+<br></br>
+<p align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sibints2000&theme=radical)
- </p>
-          
+</p>
+ <br></br>       
   ## 📊 My Github Stats
 
   <br/> 
