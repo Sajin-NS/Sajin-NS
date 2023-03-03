@@ -88,4 +88,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sibints2000">
 </a>
-<a href="https://github.com/Sibints2000?tab=followers"><img src="https://img.shields.io/github/followers/Sibints2000?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Sibints2000?tab=followers"><img src="https://img.shields.io/github/followers/Sibints2000?label=Followers&style=social" alt="GitHub Badge">
+</a>
