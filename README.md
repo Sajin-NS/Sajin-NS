@@ -63,6 +63,8 @@
     </a>
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Sibints2000&theme=radical)
+
   ## 📊 My Github Stats
 
   <br/> 
