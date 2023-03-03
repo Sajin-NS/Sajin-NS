@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sibints2000&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sibints2000&theme=radical" width="100%"/>
 
 <br/>
 <br/>
